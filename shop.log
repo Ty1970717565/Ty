@@ -1,0 +1,1339 @@
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /computer/
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\ComputerM\settings.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\ComputerM\urls.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\ComputerM\urls.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\ComputerM\urls.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\ComputerM\urls.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\ComputerM\urls.py changed, reloading.
+WARNING:django.request:Not Found: /
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\ComputerM\urls.py changed, reloading.
+WARNING:django.request:Not Found: /
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\ComputerM\urls.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py changed, reloading.
+WARNING:django.request:Not Found: /computer/product_list/£¿limit=1
+WARNING:django.request:Forbidden: /computer/order_create/
+WARNING:django.request:Forbidden: /computer/user_info/
+WARNING:django.request:Forbidden: /computer/user_info/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Forbidden: /computer/order_list/
+WARNING:django.request:Forbidden: /computer/order_list/
+WARNING:django.request:Forbidden: /computer/user_info/
+WARNING:django.request:Forbidden: /computer/cart_list/
+WARNING:django.request:Forbidden: /computer/order_create/
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /computer
+WARNING:django.request:Not Found: /computer/
+WARNING:django.request:Forbidden: /computer/cart_list/
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+WARNING:django.request:Forbidden: /computer/user_info/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Not Found: /computer/product_retrieve/59rmubf2lsmmke5430ubf9tis9/
+WARNING:django.request:Forbidden: /computer/order_create/
+WARNING:django.request:Forbidden: /computer/cart_list/
+WARNING:django.request:Forbidden: /computer/user_info/
+ERROR:django.request:Internal Server Error: /api-token-auth/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\authtoken\views.py", line 46, in post
+    token, created = Token.objects.get_or_create(user=user)
+AttributeError: type object 'Token' has no attribute 'objects'
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\ComputerM\urls.py changed, reloading.
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /computer/
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\functional.py", line 257, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+WARNING:django.request:Not Found: /computer/profile_of
+WARNING:django.request:Not Found: /computer/profile_of/
+WARNING:django.request:Not Found: /computer/user_profile_ru
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\functional.py", line 257, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Unauthorized: /computer/user_info/
+WARNING:django.request:Unauthorized: /computer/user_info/
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_server_XAbN7M6.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/acer1.jpg
+WARNING:django.request:Unauthorized: /computer/user_info/
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_server_XAbN7M6.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_server_XAbN7M6.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_server_XAbN7M6.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/lenovo_desktop.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_server_XAbN7M6.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_server_XAbN7M6.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_server_XAbN7M6.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_server_XAbN7M6.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/16/asus1.jpg
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /media/product/uploads/2017/10/18/dell_2.jpg
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_server_XAbN7M6.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_server_XAbN7M6.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_server_XAbN7M6.jpg
+WARNING:django.request:Unauthorized: /computer/user_info/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Unauthorized: /computer/user_info/
+WARNING:django.request:Bad Request: /api-token-auth/
+WARNING:django.request:Bad Request: /api-token-auth/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Unauthorized: /computer/cart_list/
+WARNING:django.request:Unauthorized: /computer/order_create/
+WARNING:django.request:Unauthorized: /computer/user_info/
+WARNING:django.request:Unauthorized: /computer/delivery_address_lc/
+WARNING:django.request:Unauthorized: /computer/delivery_address_lc/
+WARNING:django.request:Unauthorized: /computer/delivery_address_lc/
+WARNING:django.request:Unauthorized: /computer/delivery_address_lc/
+WARNING:django.request:Unauthorized: /computer/delivery_address_lc/
+WARNING:django.request:Unauthorized: /computer/delivery_address_lc/
+WARNING:django.request:Unauthorized: /computer/delivery_address_lc/
+WARNING:django.request:Unauthorized: /computer/delivery_address_lc/
+WARNING:django.request:Unauthorized: /computer/user_info/
+WARNING:django.request:Unauthorized: /computer/user_info/
+WARNING:django.request:Unauthorized: /computer/user_info/
+WARNING:django.request:Bad Request: /api-token-auth/
+WARNING:django.request:Bad Request: /api-token-auth/
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+WARNING:django.request:Bad Request: /api-token-auth/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+WARNING:django.request:Bad Request: /computer/user_create/
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Method Not Allowed: /api-token-auth/
+WARNING:django.request:Not Found: /user_info/
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\functional.py", line 257, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 511, in to_representation
+    for field in fields:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 372, in _readable_fields
+    for field in self.fields.values():
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 360, in fields
+    for key, value in self.get_fields().items():
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 1022, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 1123, in get_field_names
+    serializer_class=self.__class__.__name__
+AssertionError: The field 'profile_of' was declared on serializer UserInfoSerializer, but has not been included in the 'fields' option.
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 511, in to_representation
+    for field in fields:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 372, in _readable_fields
+    for field in self.fields.values():
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 360, in fields
+    for key, value in self.get_fields().items():
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 1022, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 1123, in get_field_names
+    serializer_class=self.__class__.__name__
+AssertionError: The field 'profile_of' was declared on serializer UserInfoSerializer, but has not been included in the 'fields' option.
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\serializers.py changed, reloading.
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsStubImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 443, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 93, in get_attribute
+    instance = getattr(instance, attr)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\functional.py", line 257, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'User' object has no attribute 'profile_of'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 513, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\fields.py", line 476, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `profile_of` on serializer `UserInfoSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `User` instance.
+Original exception text was: 'User' object has no attribute 'profile_of'.
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\serializers.py changed, reloading.
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 511, in to_representation
+    for field in fields:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 372, in _readable_fields
+    for field in self.fields.values():
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 360, in fields
+    for key, value in self.get_fields().items():
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 1022, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 1123, in get_field_names
+    serializer_class=self.__class__.__name__
+AssertionError: The field 'profile_of' was declared on serializer UserInfoSerializer, but has not been included in the 'fields' option.
+ERROR:django.request:Internal Server Error: /computer/user_info/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\views.py", line 115, in get
+    return Response(serializer.data)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 559, in data
+    ret = super().data
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 511, in to_representation
+    for field in fields:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 372, in _readable_fields
+    for field in self.fields.values():
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\django\utils\functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 360, in fields
+    for key, value in self.get_fields().items():
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 1022, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\rest_framework\serializers.py", line 1123, in get_field_names
+    serializer_class=self.__class__.__name__
+AssertionError: The field 'profile_of' was declared on serializer UserInfoSerializer, but has not been included in the 'fields' option.
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\Computerapp\serializers.py changed, reloading.
+DEBUG:root:this is debug
+INFO:root:user 31 cart changed, product 11 related. Time is 2019-11-16 19:52:37.118238.
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /static/admin/css/dashboard.css
+WARNING:django.request:Not Found: /static/admin/css/base.css
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING:django.request:Not Found: /static/admin/js/actions.min.js
+WARNING:django.request:Not Found: /static/admin/js/prepopulate.min.js
+WARNING:django.request:Not Found: /static/admin/css/base.css
+WARNING:django.request:Not Found: /static/admin/js/urlify.js
+WARNING:django.request:Not Found: /static/admin/js/core.js
+WARNING:django.request:Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /static/admin/css/forms.css
+WARNING:django.request:Not Found: /static/admin/img/icon-addlink.svg
+WARNING:django.request:Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING:django.request:Not Found: /static/admin/img/icon-changelink.svg
+WARNING:django.request:Not Found: /static/admin/js/jquery.init.js
+WARNING:django.request:Not Found: /static/admin/js/change_form.js
+WARNING:django.request:Not Found: /static/admin/js/prepopulate_init.js
+WARNING:django.request:Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING:django.request:Not Found: /static/admin/js/jquery.init.js
+WARNING:django.request:Not Found: /static/admin/js/core.js
+WARNING:django.request:Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING:django.request:Not Found: /static/admin/js/actions.min.js
+WARNING:django.request:Not Found: /static/admin/js/urlify.js
+WARNING:django.request:Not Found: /static/admin/js/prepopulate.min.js
+WARNING:django.request:Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /static/admin/img/icon-changelink.svg
+WARNING:django.request:Not Found: /static/admin/img/icon-addlink.svg
+WARNING:django.request:Not Found: /static/admin/js/change_form.js
+WARNING:django.request:Not Found: /static/admin/js/prepopulate_init.js
+WARNING:django.request:Not Found: /static/admin/css/base.css
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /static/admin/css/base.css
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /static/admin/css/base.css
+WARNING:django.request:Not Found: /static/admin/css/login.css
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /static/admin/css/base.css
+WARNING:django.request:Not Found: /static/admin/css/login.css
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /static/admin/css/base.css
+WARNING:django.request:Not Found: /static/admin/css/dashboard.css
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /static/admin/css/base.css
+WARNING:django.request:Not Found: /static/admin/css/forms.css
+WARNING:django.request:Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING:django.request:Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /static/admin/js/jquery.init.js
+WARNING:django.request:Not Found: /static/admin/js/core.js
+WARNING:django.request:Not Found: /static/admin/js/actions.min.js
+WARNING:django.request:Not Found: /static/admin/img/icon-changelink.svg
+WARNING:django.request:Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING:django.request:Not Found: /static/admin/js/urlify.js
+WARNING:django.request:Not Found: /static/admin/js/prepopulate.min.js
+WARNING:django.request:Not Found: /static/admin/img/icon-addlink.svg
+WARNING:django.request:Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING:django.request:Not Found: /static/admin/js/change_form.js
+WARNING:django.request:Not Found: /static/admin/js/jquery.init.js
+WARNING:django.request:Not Found: /static/admin/js/prepopulate_init.js
+WARNING:django.request:Not Found: /static/admin/js/core.js
+WARNING:django.request:Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING:django.request:Not Found: /static/admin/js/actions.min.js
+WARNING:django.request:Not Found: /static/admin/js/urlify.js
+WARNING:django.request:Not Found: /static/admin/js/prepopulate.min.js
+WARNING:django.request:Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /static/admin/img/icon-changelink.svg
+WARNING:django.request:Not Found: /static/admin/img/icon-addlink.svg
+WARNING:django.request:Not Found: /static/admin/js/change_form.js
+WARNING:django.request:Not Found: /static/admin/js/prepopulate_init.js
+WARNING:django.request:Not Found: /static/admin/css/base.css
+WARNING:django.request:Not Found: /static/admin/css/forms.css
+WARNING:django.request:Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING:django.request:Not Found: /static/admin/js/jquery.init.js
+WARNING:django.request:Not Found: /static/admin/js/core.js
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING:django.request:Not Found: /static/admin/js/actions.min.js
+WARNING:django.request:Not Found: /static/admin/js/urlify.js
+WARNING:django.request:Not Found: /static/admin/js/prepopulate.min.js
+WARNING:django.request:Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING:django.request:Not Found: /static/admin/img/icon-changelink.svg
+WARNING:django.request:Not Found: /static/admin/img/icon-addlink.svg
+WARNING:django.request:Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING:django.request:Not Found: /static/admin/js/change_form.js
+WARNING:django.request:Not Found: /static/admin/js/prepopulate_init.js
+WARNING:django.request:Not Found: /static/admin/js/jquery.init.js
+WARNING:django.request:Not Found: /static/admin/js/core.js
+WARNING:django.request:Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING:django.request:Not Found: /static/admin/js/actions.min.js
+WARNING:django.request:Not Found: /static/admin/js/urlify.js
+WARNING:django.request:Not Found: /static/admin/js/prepopulate.min.js
+WARNING:django.request:Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /static/admin/img/icon-changelink.svg
+WARNING:django.request:Not Found: /static/admin/img/icon-addlink.svg
+WARNING:django.request:Not Found: /static/admin/js/change_form.js
+WARNING:django.request:Not Found: /static/admin/js/prepopulate_init.js
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /static/admin/css/base.css
+WARNING:django.request:Not Found: /static/admin/css/login.css
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /static/admin/css/base.css
+WARNING:django.request:Not Found: /static/admin/css/dashboard.css
+WARNING:django.request:Not Found: /static/admin/css/responsive.css
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Unauthorized: /computer/user_info/
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/hp1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_one.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus_pad.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_xps.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/asus1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/acer1.jpg
+WARNING:django.request:Not Found: /media/product/uploads/2019/11/13/dell_2.jpg
+WARNING:django.request:Not Found: /favicon.ico
+INFO:django.utils.autoreload:C:\Users\Administrator\PycharmProjects\ComputerM\ComputerM\settings.py changed, reloading.
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
